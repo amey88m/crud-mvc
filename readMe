@@ -1,0 +1,12 @@
+simple crude example
+
+http://127.0.0.1/crud-mvc/
+http://127.0.0.1/crud-mvc/crud
+
+This example use's routes, model, controller, view.
+
+By setting routes we can determining which controller method to execute for a given URL.
+
+Here, we can create new user as well as update it's city & password.
+
+Run npm install
