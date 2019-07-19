@@ -9,4 +9,4 @@ By setting routes we can determining which controller method to execute for a gi
 
 Here, we can create new user as well as update it's city & password.
 
-Run npm install
+Run npm install first.
